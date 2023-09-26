@@ -1,0 +1,51 @@
+img {
+  width: 50px;
+}
+#face {
+  width: 340px;
+  padding-left: 50px;
+  position:absolute
+  top: 50px
+}
+
+#eyes2 {
+  position: absolute;
+  top: 140px;
+  left: 120px;
+  width: 200px;
+
+}
+#nose1{
+  position: absolute;
+  top: 200px;
+  left: 180px;
+  width: 80px;
+}
+
+#mouth2{
+  position: absolute;
+  top: 320px;
+  left: 180px;
+  width: 80px;
+
+}
+
+#hair2{
+  position: absolute;
+  top: 30px;
+  left: 70px;
+  width: 290px;
+}
+
+#ears1{
+  position: absolute;
+  top: 10px;
+  right: 300;
+  width: 400px;
+}
+
+.robot{
+  right: 40px;
+  position: absolute;
+
+}
